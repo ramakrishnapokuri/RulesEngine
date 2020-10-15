@@ -1,0 +1,7 @@
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe.config
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\bin\Debug\RulesEngine.pdb
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csprojAssemblyReference.cache
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csproj.CoreCompileInputs.cache
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\obj\Debug\RulesEngine.exe
+C:\Rama\RulesEngine\RulesEngine\RulesEngine\RulesEngine\obj\Debug\RulesEngine.pdb
