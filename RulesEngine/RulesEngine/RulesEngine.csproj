@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IRulesContext.cs" />
+    <Compile Include="PaymentTypes\BookPayment.cs" />
+    <Compile Include="PaymentTypes\PhysicalPayment.cs" />
+    <Compile Include="PaymentTypes\UpgradeMemberShip.cs" />
+    <Compile Include="PaymentTypes\VideoPayment.cs" />
+    <Compile Include="PaymentTypes\MemberShipPayment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RulesContext.cs" />
