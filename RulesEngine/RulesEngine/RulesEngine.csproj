@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helper\HelperService.cs" />
+    <Compile Include="Interfaces\ICommision.cs" />
+    <Compile Include="Interfaces\IEmail.cs" />
     <Compile Include="Interfaces\IRulesContext.cs" />
     <Compile Include="PaymentTypes\BookPayment.cs" />
     <Compile Include="PaymentTypes\PhysicalPayment.cs" />

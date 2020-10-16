@@ -11,6 +11,12 @@ namespace RulesEngine.PaymentTypes
         public void Process()
         {
             Console.WriteLine("Video Processing");
-        }           
+            AddFreeVideo();
+        }
+
+        private void AddFreeVideo()
+        {
+            Console.WriteLine("Added Free First Aid Video");
+        }
     }
 }
